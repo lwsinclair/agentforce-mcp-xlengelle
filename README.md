@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/xlengelle-sf-agentforce-mcp-xlengelle-badge.png)](https://mseep.ai/app/xlengelle-sf-agentforce-mcp-xlengelle)
+
 # Agentforce MCP Server
 
 This MCP server provides tools to interact with the Salesforce Agentforce API. It allows authentication, session creation, and message exchange with Agentforce agents.
